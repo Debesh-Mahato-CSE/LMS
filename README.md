@@ -36,8 +36,8 @@ A full-stack Library Management System designed to efficiently manage books, use
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/your-username/library-management-system.git
-cd library-management-system
+git clone https://github.com/sangram-2003/LMS.git
+cd LMS
 
 👨‍💻 Developed By
 -Sangram Bauri
